@@ -1,0 +1,47 @@
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.exe.config
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.exe
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.pdb
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.csprojResolveAssemblyReference.cache
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.MainForm.resources
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.Properties.Resources.resources
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.csproj.GenerateResource.Cache
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.exe
+c:\users\normand\documents\visual studio 2013\Projects\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.pdb
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.exe.config
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.exe
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.pdb
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.exe
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.pdb
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.Properties.Resources.resources
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.csproj.GenerateResource.Cache
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\bin\Debug\MailKit.dll
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\bin\Debug\MimeKit.dll
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\bin\Debug\MailKit.xml
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\bin\Debug\MimeKit.xml
+E:\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.exe.config
+E:\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.exe
+E:\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.pdb
+D:\Программирование1\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.exe.config
+D:\Программирование1\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.exe
+D:\Программирование1\SMTP_POP3\SMTP_POP3\bin\Debug\SMTP_POP3.pdb
+D:\Программирование1\SMTP_POP3\SMTP_POP3\bin\Debug\BouncyCastle.Crypto.dll
+D:\Программирование1\SMTP_POP3\SMTP_POP3\bin\Debug\MailKit.dll
+D:\Программирование1\SMTP_POP3\SMTP_POP3\bin\Debug\MimeKit.dll
+D:\Программирование1\SMTP_POP3\SMTP_POP3\bin\Debug\MailKit.xml
+D:\Программирование1\SMTP_POP3\SMTP_POP3\bin\Debug\MimeKit.xml
+D:\Программирование1\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.csprojResolveAssemblyReference.cache
+D:\Программирование1\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.MainForm.resources
+D:\Программирование1\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.Form2.resources
+D:\Программирование1\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.Properties.Resources.resources
+D:\Программирование1\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.csproj.GenerateResource.Cache
+D:\Программирование1\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.csproj.CoreCompileInputs.cache
+D:\Программирование1\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.exe
+D:\Программирование1\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP3.pdb
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP31.MainForm.resources
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP31.Form2.resources
+C:\Users\Vlada\Desktop\SMTP_POP3\SMTP_POP3\obj\Debug\SMTP_POP31.Form3.resources
+C:\Users\Vlada\Desktop\SMTP_IMAP\SMTP_POP3\bin\Debug\SMTP_POP3.exe.config
+C:\Users\Vlada\Desktop\SMTP_IMAP\SMTP_POP3\obj\Debug\SMTP_POP3.exe
+C:\Users\Vlada\Desktop\SMTP_IMAP\SMTP_POP3\obj\Debug\SMTP_POP3.pdb
